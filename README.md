@@ -1,5 +1,5 @@
 # prosta gra sudoku
-aby odpalić kod potrzebujemy [node.js](https://nodejs.org/en)
+aby odpalić kod potrzebujemy [node.js](https://nodejs.org/en) \
 w terminalu wpisujemy po kolei komendy
 ```
 npm i
